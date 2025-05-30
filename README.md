@@ -5,8 +5,8 @@ Note: the following is a local copy of a page from the Rudy lab web site:
 
 # The Hund-Rudy Dynamic (HRd) Model of the Canine Ventricular Myocyte
 
-| ![HRD schematic](index_files/HRD%2520schematic.gif) | The Hund-Rudy dynamic (HRd) model is based on data from the canine epicardial ventricular myocyte. Rate-dependent phenomena associated with ion channel kinetics, action potential properties and Ca<sup>2+</sup> handling are simulated by the model. Distinguishing features of the HRd include (1) regulation of Ca<sup>2+</sup>-handling by Ca<sup>2+</sup>/calmodulin dependent protein kinase (CaMKII), (2) incorporation of the late Na<sup>+</sup> current (I<sub>NaL</sub>) and Ca<sup>2+</sup> dependent transient outward current (I<sub>to2</sub>, in addition to I<sub>to1</sub>), (3) dynamic intracellular Cl<sup>-</sup> handling and (4) a novel formulation of calcium release from the junctional sarcoplasmic reticulum (JSR). Interaction between dihydropyridine receptors (I<sub>CaL</sub>) and ryanodine receptors (RyR) occurs in a restricted Ca<sup>2+</sup> subspace. The calcium release formulation incorporates activation of RyR by I<sub>CaL</sub>, Ca<sup>2+</sup>-dependent inactivation of RyR, and modulation of RyR open-probability by both JSR and subspace Ca<sup>2+</sup>. |
-|---|---|
+![HRD schematic](index_files/HRD%2520schematic.gif)  
+The Hund-Rudy dynamic (HRd) model is based on data from the canine epicardial ventricular myocyte. Rate-dependent phenomena associated with ion channel kinetics, action potential properties and Ca<sup>2+</sup> handling are simulated by the model. Distinguishing features of the HRd include (1) regulation of Ca<sup>2+</sup>-handling by Ca<sup>2+</sup>/calmodulin dependent protein kinase (CaMKII), (2) incorporation of the late Na<sup>+</sup> current (I<sub>NaL</sub>) and Ca<sup>2+</sup> dependent transient outward current (I<sub>to2</sub>, in addition to I<sub>to1</sub>), (3) dynamic intracellular Cl<sup>-</sup> handling and (4) a novel formulation of calcium release from the junctional sarcoplasmic reticulum (JSR). Interaction between dihydropyridine receptors (I<sub>CaL</sub>) and ryanodine receptors (RyR) occurs in a restricted Ca<sup>2+</sup> subspace. The calcium release formulation incorporates activation of RyR by I<sub>CaL</sub>, Ca<sup>2+</sup>-dependent inactivation of RyR, and modulation of RyR open-probability by both JSR and subspace Ca<sup>2+</sup>. 
 
 **Originally published in:**
 
@@ -32,13 +32,12 @@ If _V_ mV,
 - [Note on achieving steady state during ultra-long term continuous pacing.](http://rudylab.wustl.edu/research/cell/methodology/cellmodels/HRd/HRD%20on%20the%20web/ultra-long%20pacing.htm)
 - [Note on modifications to HRD code for simulation of propagation.](http://rudylab.wustl.edu/research/cell/methodology/cellmodels/HRd/HRD%20on%20the%20web/HRD%20propagation%20simulation.htm)
 
-|   |   |
-|---|---|
-|   | **To directly access the C++ code, (Last updated on September 29, 2005) [click here](http://rudylab.wustl.edu/research/cell/methodology/cellmodels/HRd/HRD%20on%20the%20web/HRD%20Code.html).** |
-|   | **To download the Matlab code, (Last updated on October 5, 2005.  Backward Compatibility with Matlab 6.5) [click here](http://rudylab.wustl.edu/research/cell/methodology/cellmodels/HRd/HRD%20on%20the%20web/HRd2004.zip).** |
-|   | **For sample output, and directions on how to use the code [click here](http://rudylab.wustl.edu/research/cell/methodology/cellmodels/HRd/HRD%20on%20the%20web/using%20the%20HRD.htm).** |
-|   | **To view a concise description of the model formulations, [click here](http://rudylab.wustl.edu/research/cell/methodology/cellmodels/HRd/HRD%20on%20the%20web/formulation.html).** |
-|   | **Question about the model?** [Email Tom Hund.](mailto:thund@pathology.wustl.edu) **Question about the code?** [Email Keith Decker](mailto:kfd1@cec.wustl.edu) |
+**To directly access the C++ code, (Last updated on September 29, 2005) [click here](http://rudylab.wustl.edu/research/cell/methodology/cellmodels/HRd/HRD%20on%20the%20web/HRD%20Code.html).**  
+**To download the Matlab code, (Last updated on October 5, 2005.  Backward Compatibility with Matlab 6.5) [click here](http://rudylab.wustl.edu/research/cell/methodology/cellmodels/HRd/HRD%20on%20the%20web/HRd2004.zip).**  
+**For sample output, and directions on how to use the code [click here](http://rudylab.wustl.edu/research/cell/methodology/cellmodels/HRd/HRD%20on%20the%20web/using%20the%20HRD.htm).**  
+**To view a concise description of the model formulations, [click here](http://rudylab.wustl.edu/research/cell/methodology/cellmodels/HRd/HRD%20on%20the%20web/formulation.html).**  
+**Question about the model?** [Email Tom Hund.](mailto:thund@pathology.wustl.edu)  
+**Question about the code?** [Email Keith Decker](mailto:kfd1@cec.wustl.edu)  
 
 ---
 
